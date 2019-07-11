@@ -1,11 +1,11 @@
 # Intellij
 *.iml
-.idea/
+*.idea/
 *.ipr
 *.iws
-out/
-.idea_modules/
+*out/
+*.idea_modules/
 
 # Maven
-log/
-target/
+*log/
+*target/
